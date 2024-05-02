@@ -3,6 +3,16 @@
 <h3 align="center">A passionate software developer from Russia 🇷🇺</h3>
 
 <div align="center">
+ 
+ 🔭 I'm currently working on **process automation**
+ 
+ 🌱 I’m currently learning **Docker, FastAPI**
+
+💬 Ask any question [here](https://github.com/LostUnion/LostUnion/issues)**
+
+ </div>
+
+<div align="center">
   <a href="malto:nsk.19980513@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
