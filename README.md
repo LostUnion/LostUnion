@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,sqlite,cpp,mysql,sublime,vim,neovim,postman,kali,linux,bash,docker,fastapi" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vim,neovim,bash,sublime" />
+    <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postman,kali,linux,docker,fastapi" />
  </br>
 </div>
