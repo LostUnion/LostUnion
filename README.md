@@ -6,7 +6,7 @@
  
  🔭 I'm currently working on **process automation**
  
- 🌱 I’m currently learning **Docker, FastAPI**
+ 🌱 I’m currently learning **Docker, FastAPI, PostgreSQL**
 
 💬 Ask any question **[here](https://github.com/LostUnion/LostUnion/issues)**
 
